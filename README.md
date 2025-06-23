@@ -4,6 +4,10 @@
 
 This Power BI project analyzes **Amazon sales data** from an Excel sheet and showcases the use of various **Time Intelligence functions** to gain insights into sales trends over time. The goal is to uncover valuable business insights such as sales growth, seasonal patterns, and year-over-year comparisons.
 
+## Dashboard Preview
+
+![Amazon Sales Dashboard](https://github.com/Usama00004/Amazon-Sales-Analysis/blob/main/Dashboard_Image.png)
+
 ## Data Source
 
 - **File**: `Amazon_Sales_Data.xlsx`
@@ -64,5 +68,5 @@ This Power BI project analyzes **Amazon sales data** from an Excel sheet and sho
 
 For questions or feedback, feel free to reach out:
 
-**Usama Tahir**  
-usamatahir00004@gmail.com
+**Your Name**  
+your.email@example.com
