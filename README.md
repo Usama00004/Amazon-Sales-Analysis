@@ -68,5 +68,5 @@ This Power BI project analyzes **Amazon sales data** from an Excel sheet and sho
 
 For questions or feedback, feel free to reach out:
 
-**Your Name**  
-your.email@example.com
+**Usama Tahir**  
+usamatahir00004@gmail.com
