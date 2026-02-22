@@ -6,6 +6,8 @@ This Power BI project analyzes **Amazon sales data** from an Excel sheet and sho
 
 ## Dashboard Preview
 
+![Amazon Sales Dashboard](https://github.com/Usama00004/Amazon-Sales-Analysis/blob/main/Dashboard_Image.png)
+
 
 
 ## Data Source
